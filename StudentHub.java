@@ -1,8 +1,3 @@
-/*
-    Name: Mitha Katrapati 
-    netID: lkatrapa 
-    Lab: 201 
-*/
 
 import java.util.ArrayList;
 import java.util.LinkedList;
